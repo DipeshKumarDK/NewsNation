@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewsNation/static/css/main.9d0f553c.css",
+    "main.js": "/NewsNation/static/js/main.72abdd78.js",
+    "index.html": "/NewsNation/index.html",
+    "main.9d0f553c.css.map": "/NewsNation/static/css/main.9d0f553c.css.map",
+    "main.72abdd78.js.map": "/NewsNation/static/js/main.72abdd78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d0f553c.css",
+    "static/js/main.72abdd78.js"
+  ]
+}
