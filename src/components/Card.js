@@ -10,7 +10,7 @@ function Card(props) {
           src={
             img  ? img || "https://cdn.pixabay.com/photo/2017/12/31/15/39/marine-3052592__340.jpg" : "https://cdn.pixabay.com/photo/2017/12/31/15/39/marine-3052592__340.jpg"
           }
-          className="h-60 w-11/12" alt="Error while loading image"/>
+          className="h-60 w-11/12"/>
       <div className={`pt-2 bg-${mode ==='dark'?'black':'#042743'}`}>
       <div className={`pr-2 pt-2 text-xl ${props.mode==='dark'?'text-white':'text-black'} font-medium leading-5`}>{title} ...</div>
       <div className={`pr-2 font-normal ${props.mode==='dark'?'text-white':'text-black'} pt-3 leading-5`}>{description} ...</div>
